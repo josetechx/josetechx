@@ -11,9 +11,9 @@
 - **Optimization & Performance** – Ensuring smooth UX with efficient code  
 
 ### 🛠️ Projects & Work:  
-- **TechsspaceX** – Founder of a tech-driven initiative  
+- **Joespecx** – Founder of a tech-driven initiative  
 - **EngageTrend** – A social media engagement app under development  
-- **Made to Love** – A gifting platform hosted on Netlify  
+- **Made to Love** – A gifting platform built to pick the best gift for loved ones 
 - **Healthcare Solutions** – Built lab management & patient portals  
 
 💡 Always learning, exploring new technologies, and contributing to open-source projects. Let’s connect and build something amazing!  
