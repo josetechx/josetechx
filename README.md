@@ -1,8 +1,8 @@
 
 
-## 👋 Hi, I'm Joseph | Frontend Developer & Tech Enthusiast  
+## 👋 Hi, I'm Joseph | Fullstack Developer & Tech Enthusiast  
 
-🚀 Passionate about crafting seamless and intuitive web experiences, I specialize in **React, Next.js, TypeScript, and JavaScript**. With **6+ years of experience**, I've worked on diverse projects ranging from **e-commerce platforms** to **healthcare solutions**, ensuring performance, accessibility, and scalability.  
+🚀 Passionate about crafting seamless and intuitive web experiences, I specialize in **React, Next.js, TypeScript, and JavaScript**(Node js). With **6+ years of experience**, I've worked on diverse projects ranging from **e-commerce platforms** to **healthcare solutions**, ensuring performance, accessibility, and scalability.  
 
 ### 🔹 What I Do:  
 - **Frontend Development** – React, Next.js, TypeScript, Tailwind CSS, Material UI  
